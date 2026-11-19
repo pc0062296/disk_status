@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.scan
+*.scan.gz
+*.scan.tmp
+report*.txt
